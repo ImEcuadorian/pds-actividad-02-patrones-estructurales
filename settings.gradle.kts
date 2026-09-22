@@ -1,0 +1,1 @@
+rootProject.name = "pds-actividad-02-patrones-estructurales"
